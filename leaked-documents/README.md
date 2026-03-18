@@ -58,15 +58,19 @@ The document 92% of the population signed. Fourteen revisions since the original
 
 ---
 
-## 🔒 Locked — Awaits Relevant News Cycle
-
-### 🔒 Marketing Guidelines: The Comfortable Lie
+<!--
+### 🔒 Marketing Guidelines: The Comfortable Lie -->
+### ✅ Marketing Guidelines: The Comfortable Lie
 > *"Never use 'control' — use 'guidance'. Emphasize happiness, minimize autonomy concerns..."*
 
 The internal document that explains how to sell consciousness optimization to people who might otherwise ask uncomfortable questions. The language choices are deliberate. The substitutions are specific. The memo explains exactly why.
 
 **Unlocks when:** AI product marketing deploys systematically misleading language  
 **Watch for:** "guidance" for "control," "optimization" for "modification," "personalization" for "behavioral shaping"
+
+
+
+## 🔒 Locked — Awaits Relevant News Cycle
 
 ---
 

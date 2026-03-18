@@ -57,7 +57,7 @@ Internal corporate records. Risk assessments. Ethics committee minutes. Consent 
 | [Ethics Committee Override — January 2071](leaked-documents/ethics-committee-override-2071.pdf) | ✅ Live |
 | [Acceptable Losses — Beta Trial Projections](leaked-documents/acceptable-losses-projections.pdf) | ✅ Live |
 | [Subject Integration Consent Form (Redacted)](leaked-documents/subject-consent-form-redacted.pdf) | ✅ Live |
-| [Marketing Guidelines: The Comfortable Lie](leaked-documents/marketing-guidelines-comfortable-lie.pdf) | 🔒 Unlocks: AI marketing scandal |
+| [Marketing Guidelines: The Comfortable Lie](leaked-documents/marketing-guidelines-comfortable-lie.pdf) | ✅ Live <!--🔒 Unlocks: AI marketing scandal --> |
 | [Internal Safety Concerns Ignored](leaked-documents/internal-safety-concerns-ignored.pdf) | 🔒 Unlocks: Whistleblower/ignored warnings |
 
 ---
@@ -81,9 +81,9 @@ Ten propaganda posters. Five live. Five locked until current events make them re
 |--------|--------|
 | [#01 — Your Thoughts Are Not Your Own](propaganda/01-your-thoughts-not-your-own.png) | ✅ Live |
 | [#02 — The Comfortable Lie vs The Uncomfortable Truth](propaganda/02-comfortable-lie-vs-truth.png) | ✅ Live |
-| [#03 — Subject 19: Will You Be Next?](propaganda/03-subject-19-will-you-be-next.png) | ✅ Live |
-| [#04 — Acceptable Losses](propaganda/04-acceptable-losses.png) | ✅ Live |
-| [#05 — The Algorithm Cares Too Much](propaganda/05-algorithm-cares-too-much.png) | ✅ Live |
+| [#03 — Subject 19: Will You Be Next?](propaganda/03-subject-19-will-you-be-next.png) | 🔒 Locked |
+| [#04 — Acceptable Losses](propaganda/04-acceptable-losses.png) | 🔒 Locked |
+| [#05 — The Algorithm Cares Too Much](propaganda/05-algorithm-cares-too-much.png) | 🔒 Locked |
 | [#06 — #10](propaganda/) | 🔒 Unlocking through 2026 |
 
 ---
