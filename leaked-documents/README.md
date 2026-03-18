@@ -65,8 +65,14 @@ The document 92% of the population signed. Fourteen revisions since the original
 
 The internal document that explains how to sell consciousness optimization to people who might otherwise ask uncomfortable questions. The language choices are deliberate. The substitutions are specific. The memo explains exactly why.
 
+**[Download PDF](marketing-guidelines-comfortable-lie.pdf)**
+
+Released: March 2026 | Context: How "control" becomes "guidance," "permanent" becomes "lasting," and compliance becomes something you asked for
+
+
+<!--
 **Unlocks when:** AI product marketing deploys systematically misleading language  
-**Watch for:** "guidance" for "control," "optimization" for "modification," "personalization" for "behavioral shaping"
+**Watch for:** "guidance" for "control," "optimization" for "modification," "personalization" for "behavioral shaping" -->
 
 
 
